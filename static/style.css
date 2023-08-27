@@ -1,0 +1,15 @@
+/* style.css */
+
+/* Misalnya, mengubah warna latar belakang elemen dengan class "main-content" */
+.main-content {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888888;
+}
+
+/* Mengubah warna teks tombol "Prediksi" saat digulir */
+button.Prediksi:hover {
+    background-color: #4CAF50;
+    color: white;
+}
